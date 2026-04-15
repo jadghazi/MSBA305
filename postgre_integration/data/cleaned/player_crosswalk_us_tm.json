@@ -1,0 +1,500 @@
+{"us_name": "Harry Kane", "tm_name": "Harry Kane", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mohamed Salah", "tm_name": "Mohamed Salah", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Bruno Fernandes", "tm_name": "Bruno Fernandes", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Son Heung-Min", "tm_name": "Heung-min Son", "team": "Tottenham", "match_score": 100, "match_type": "fuzzy"}
+{"us_name": "Patrick Bamford", "tm_name": "Patrick Bamford", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dominic Calvert-Lewin", "tm_name": "Dominic Calvert-Lewin", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jamie Vardy", "tm_name": "Jamie Vardy", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ollie Watkins", "tm_name": "Ollie Watkins", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ilkay Gündogan", "tm_name": "İlkay Gündoğan", "team": "Manchester City", "match_score": 92, "match_type": "fuzzy"}
+{"us_name": "Alexandre Lacazette", "tm_name": "Alexandre Lacazette", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Callum Wilson", "tm_name": "Callum Wilson", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kelechi Iheanacho", "tm_name": "Kelechi Iheanacho", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Danny Ings", "tm_name": "Danny Ings", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Chris Wood", "tm_name": "Chris Wood", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Wilfried Zaha", "tm_name": "Wilfried Zaha", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Marcus Rashford", "tm_name": "Marcus Rashford", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Sadio Mané", "tm_name": "Sadio Mané", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Gareth Bale", "tm_name": "Gareth Bale", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matheus Pereira", "tm_name": "Matheus Pereira", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Pierre-Emerick Aubameyang", "tm_name": "Pierre-Emerick Aubameyang", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Michail Antonio", "tm_name": "Michail Antonio", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Christian Benteke", "tm_name": "Christian Benteke", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Raheem Sterling", "tm_name": "Raheem Sterling", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Edinson Cavani", "tm_name": "Edinson Cavani", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Anwar El Ghazi", "tm_name": "Anwar El Ghazi", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nicolas Pepe", "tm_name": "Nicolas Pépé", "team": "Arsenal", "match_score": 91, "match_type": "fuzzy"}
+{"us_name": "Tomas Soucek", "tm_name": "Tomáš Souček", "team": "West Ham", "match_score": 78, "match_type": "fuzzy"}
+{"us_name": "Roberto Firmino", "tm_name": "Roberto Firmino", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jesse Lingard", "tm_name": "Jesse Lingard", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Riyad Mahrez", "tm_name": "Riyad Mahrez", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Gabriel Jesus", "tm_name": "Gabriel Jesus", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Phil Foden", "tm_name": "Phil Foden", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Harvey Barnes", "tm_name": "Harvey Barnes", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Che Adams", "tm_name": "Ché Adams", "team": "Southampton", "match_score": 94, "match_type": "fuzzy"}
+{"us_name": "James Ward-Prowse", "tm_name": "James Ward-Prowse", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jarrod Bowen", "tm_name": "Jarrod Bowen", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Neal Maupay", "tm_name": "Neal Maupay", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joe Willock", "tm_name": "Joe Willock", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "James Maddison", "tm_name": "James Maddison", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "David McGoldrick", "tm_name": "David McGoldrick", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Stuart Dallas", "tm_name": "Stuart Dallas", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Bertrand Traoré", "tm_name": "Bertrand Traoré", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jorginho", "tm_name": "Jorginho", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rodrigo", "tm_name": "Rodrigo", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Richarlison", "tm_name": "Richarlison", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ferrán Torres", "tm_name": "Ferran Torres", "team": "Manchester City", "match_score": 96, "match_type": "fuzzy"}
+{"us_name": "Mason Greenwood", "tm_name": "Mason Greenwood", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Timo Werner", "tm_name": "Timo Werner", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kevin De Bruyne", "tm_name": "Kevin De Bruyne", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Danny Welbeck", "tm_name": "Danny Welbeck", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jack Grealish", "tm_name": "Jack Grealish", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tammy Abraham", "tm_name": "Tammy Abraham", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Gylfi Sigurdsson", "tm_name": "Gylfi Sigurdsson", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "James Rodríguez", "tm_name": "James Rodríguez", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Youri Tielemans", "tm_name": "Youri Tielemans", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mason Mount", "tm_name": "Mason Mount", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Raphinha", "tm_name": "Raphinha", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kurt Zouma", "tm_name": "Kurt Zouma", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Pablo Fornals", "tm_name": "Pablo Fornals", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Callum Robinson", "tm_name": "Callum Robinson", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Lewis Dunk", "tm_name": "Lewis Dunk", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Pedro Neto", "tm_name": "Pedro Neto", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rúben Neves", "tm_name": "Rúben Neves", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Bukayo Saka", "tm_name": "Bukayo Saka", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Leandro Trossard", "tm_name": "Leandro Trossard", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joelinton", "tm_name": "Joelinton", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Olivier Giroud", "tm_name": "Olivier Giroud", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Anthony Martial", "tm_name": "Anthony Martial", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "John Stones", "tm_name": "John Stones", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Sergio Agüero", "tm_name": "Sergio Agüero", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Christian Pulisic", "tm_name": "Christian Pulisic", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Raúl Jiménez", "tm_name": "Raúl Jiménez", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mateusz Klich", "tm_name": "Mateusz Klich", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kai Havertz", "tm_name": "Kai Havertz", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ademola Lookman", "tm_name": "Ademola Lookman", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Scott McTominay", "tm_name": "Scott McTominay", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Stuart Armstrong", "tm_name": "Stuart Armstrong", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Miguel Almirón", "tm_name": "Miguel Almirón", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Eberechi Eze", "tm_name": "Eberechi Eze", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Fabio Silva", "tm_name": "Fábio Silva", "team": "Wolverhampton Wanderers", "match_score": 95, "match_type": "fuzzy"}
+{"us_name": "Allan Saint-Maximin", "tm_name": "Allan Saint-Maximin", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jannik Vestergaard", "tm_name": "Jannik Vestergaard", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Pascal Groß", "tm_name": "Pascal Groß", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Theo Walcott", "tm_name": "Theo Walcott", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Angelo Ogbonna", "tm_name": "Angelo Ogbonna", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ashley Westwood", "tm_name": "Ashley Westwood", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Aleksandar Mitrovic", "tm_name": "Aleksandar Mitrović", "team": "Fulham", "match_score": 95, "match_type": "fuzzy"}
+{"us_name": "Ben Chilwell", "tm_name": "Ben Chilwell", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Craig Dawson", "tm_name": "Craig Dawson", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kyle Bartley", "tm_name": "Kyle Bartley", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matej Vydra", "tm_name": "Matej Vydra", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Michael Keane", "tm_name": "Michael Keane", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Paul Pogba", "tm_name": "Paul Pogba", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Lucas Moura", "tm_name": "Lucas Moura", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Hélder Costa", "tm_name": "Hélder Costa", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Romain Saiss", "tm_name": "Romain Saïss", "team": "Wolverhampton Wanderers", "match_score": 96, "match_type": "fuzzy"}
+{"us_name": "Ivan Cavaleiro", "tm_name": "Ivan Cavaleiro", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ashley Barnes", "tm_name": "Ashley Barnes", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Josh Maja", "tm_name": "Josh Maja", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Daniel James", "tm_name": "Daniel James", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Sébastien Haller", "tm_name": "Sébastien Haller", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Billy Sharp", "tm_name": "Billy Sharp", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "John McGinn", "tm_name": "John McGinn", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Takumi Minamino", "tm_name": "Takumi Minamino", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Daniel Podence", "tm_name": "Daniel Podence", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mbaye Diagne", "tm_name": "Mbaye Diagne", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Pierre-Emile Højbjerg", "tm_name": "Pierre-Emile Højbjerg", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ola Aina", "tm_name": "Ola Aina", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jeffrey Schlupp", "tm_name": "Jeffrey Schlupp", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jamaal Lascelles", "tm_name": "Jamaal Lascelles", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ayoze Pérez", "tm_name": "Ayoze Pérez", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Georginio Wijnaldum", "tm_name": "Georginio Wijnaldum", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nathan Redmond", "tm_name": "Nathan Redmond", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jonny Evans", "tm_name": "Jonny Evans", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Adama Traoré", "tm_name": "Adama Traoré", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tyrone Mings", "tm_name": "Tyrone Mings", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Marcos Alonso", "tm_name": "Marcos Alonso", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ben Mee", "tm_name": "Ben Mee", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Johann Berg Gudmundsson", "tm_name": "Jóhann Berg Gudmundsson", "team": "Burnley", "match_score": 98, "match_type": "fuzzy"}
+{"us_name": "Harry Maguire", "tm_name": "Harry Maguire", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Abdoulaye Doucouré", "tm_name": "Abdoulaye Doucouré", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matt Phillips", "tm_name": "Matt Phillips", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Hal Robson-Kanu", "tm_name": "Hal Robson-Kanu", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jeff Hendrick", "tm_name": "Jeff Hendrick", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Trent Alexander-Arnold", "tm_name": "Trent Alexander-Arnold", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "João Cancelo", "tm_name": "João Cancelo", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rodri", "tm_name": "Rodri", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Issa Diop", "tm_name": "Issa Diop", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Thiago Silva", "tm_name": "Thiago Silva", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Benjamin Mendy", "tm_name": "Benjamin Mendy", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Serge Aurier", "tm_name": "Serge Aurier", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Bernardo Silva", "tm_name": "Bernardo Silva", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Semi Ajayi", "tm_name": "Semi Ajayi", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Declan Rice", "tm_name": "Declan Rice", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Aaron Wan-Bissaka", "tm_name": "Aaron Wan-Bissaka", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Gabriel", "tm_name": "Gabriel", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jairo Riedewald", "tm_name": "Jaïro Riedewald", "team": "Crystal Palace", "match_score": 97, "match_type": "fuzzy"}
+{"us_name": "Solly March", "tm_name": "Solly March", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jacob Murphy", "tm_name": "Jacob Murphy", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Timothy Castagne", "tm_name": "Timothy Castagne", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Callum Hudson-Odoi", "tm_name": "Callum Hudson-Odoi", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Eddie Nketiah", "tm_name": "Eddie Nketiah", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Yerry Mina", "tm_name": "Yerry Mina", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dwight McNeil", "tm_name": "Dwight McNeil", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Emile Smith-Rowe", "tm_name": "Emile Smith Rowe", "team": "Arsenal", "match_score": 100, "match_type": "fuzzy"}
+{"us_name": "Trézéguet", "tm_name": "Trezeguet", "team": "Aston Villa", "match_score": 88, "match_type": "fuzzy"}
+{"us_name": "Ezri Konsa Ngoyo", "tm_name": "Ezri Konsa", "team": "Aston Villa", "match_score": 77, "match_type": "fuzzy"}
+{"us_name": "Gabriel Martinelli", "tm_name": "Gabriel Martinelli", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "James Justin", "tm_name": "James Justin", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Aaron Connolly", "tm_name": "Aaron Connolly", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ezgjan Alioski", "tm_name": "Ezgjan Alioski", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Hakim Ziyech", "tm_name": "Hakim Ziyech", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jayden Bogle", "tm_name": "Jayden Bogle", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Fabian Schär", "tm_name": "Fabian Schär", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Granit Xhaka", "tm_name": "Granit Xhaka", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Thiago Alcántara", "tm_name": "Thiago Alcántara", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joel Matip", "tm_name": "Joël Matip", "team": "Liverpool", "match_score": 95, "match_type": "fuzzy"}
+{"us_name": "Adam Lallana", "tm_name": "Adam Lallana", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Héctor Bellerín", "tm_name": "Héctor Bellerín", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mohamed Elneny", "tm_name": "Mohamed Elneny", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alex Iwobi", "tm_name": "Alex Iwobi", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Scott Dann", "tm_name": "Scott Dann", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Cheikhou Kouyaté", "tm_name": "Cheikhou Kouyaté", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Manuel Lanzini", "tm_name": "Manuel Lanzini", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Andy Carroll", "tm_name": "Andy Carroll", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Juan Mata", "tm_name": "Juan Mata", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nathan Aké", "tm_name": "Nathan Aké", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jordan Henderson", "tm_name": "Jordan Henderson", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kyle Walker", "tm_name": "Kyle Walker", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Toby Alderweireld", "tm_name": "Toby Alderweireld", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Erik Lamela", "tm_name": "Erik Lamela", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jordan Ayew", "tm_name": "Jordan Ayew", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "César Azpilicueta", "tm_name": "César Azpilicueta", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ruben Loftus-Cheek", "tm_name": "Ruben Loftus-Cheek", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Gary Cahill", "tm_name": "Gary Cahill", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Willian", "tm_name": "Willian", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dwight Gayle", "tm_name": "Dwight Gayle", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Marc Albrighton", "tm_name": "Marc Albrighton", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Daniel Amartey", "tm_name": "Daniel Amartey", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jonjo Shelvey", "tm_name": "Jonjo Shelvey", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Andros Townsend", "tm_name": "Andros Townsend", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Robbie Brady", "tm_name": "Robbie Brady", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Virgil van Dijk", "tm_name": "Virgil van Dijk", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Oriol Romeu", "tm_name": "Oriol Romeu", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jay Rodriguez", "tm_name": "Jay Rodríguez", "team": "Burnley", "match_score": 96, "match_type": "fuzzy"}
+{"us_name": "Paul Dummett", "tm_name": "Paul Dummett", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ciaran Clark", "tm_name": "Ciaran Clark", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alex Oxlade-Chamberlain", "tm_name": "Alex Oxlade-Chamberlain", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mason Holgate", "tm_name": "Mason Holgate", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Luke Shaw", "tm_name": "Luke Shaw", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tyler Roberts", "tm_name": "Tyler Roberts", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Keinan Davis", "tm_name": "Keinan Davis", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dennis Praet", "tm_name": "Dennis Praet", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alisson", "tm_name": "Alisson", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mario Lemina", "tm_name": "Mario Lemina", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Emil Krafth", "tm_name": "Emil Krafth", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matthew Lowton", "tm_name": "Matthew Lowton", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "James Tarkowski", "tm_name": "James Tarkowski", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "David Luiz", "tm_name": "David Luiz", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Andrew Robertson", "tm_name": "Andrew Robertson", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Oliver McBurnie", "tm_name": "Oli McBurnie", "team": "Sheffield United", "match_score": 89, "match_type": "fuzzy"}
+{"us_name": "Antonio Rüdiger", "tm_name": "Antonio Rüdiger", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Diego Llorente", "tm_name": "Diego Llorente", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Willian José", "tm_name": "Willian José", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "João Moutinho", "tm_name": "João Moutinho", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Said Benrahma", "tm_name": "Saïd Benrahma", "team": "West Ham", "match_score": 96, "match_type": "fuzzy"}
+{"us_name": "Darnell Furlong", "tm_name": "Darnell Furlong", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Oliver Burke", "tm_name": "Oliver Burke", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Caglar Söyüncü", "tm_name": "Çağlar Söyüncü", "team": "Leicester", "match_score": 86, "match_type": "fuzzy"}
+{"us_name": "Wilfred Ndidi", "tm_name": "Wilfred Ndidi", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Luka Milivojevic", "tm_name": "Luka Milivojevic", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Yves Bissouma", "tm_name": "Yves Bissouma", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Giovani Lo Celso", "tm_name": "Giovani Lo Celso", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jean-Philippe Mateta", "tm_name": "Jean-Philippe Mateta", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jan Bednarek", "tm_name": "Jan Bednarek", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Victor Lindelöf", "tm_name": "Victor Lindelöf", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nélson Semedo", "tm_name": "Nélson Semedo", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joachim Andersen", "tm_name": "Joachim Andersen", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ben Johnson", "tm_name": "Ben Johnson", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Grady Diangana", "tm_name": "Grady Diangana", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Curtis Jones", "tm_name": "Curtis Jones", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rayan Ait Nouri", "tm_name": "Rayan Aït-Nouri", "team": "Wolverhampton Wanderers", "match_score": 97, "match_type": "fuzzy"}
+{"us_name": "Fred", "tm_name": "Fred", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joe Bryan", "tm_name": "Joe Bryan", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tom Cairney", "tm_name": "Tom Cairney", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Willy Boly", "tm_name": "Willy Boly", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Conor Coady", "tm_name": "Conor Coady", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Morgan Gibbs-White", "tm_name": "Morgan Gibbs-White", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kortney Hause", "tm_name": "Kortney Hause", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ryan Fredericks", "tm_name": "Ryan Fredericks", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Fabián Balbuena", "tm_name": "Fabián Balbuena", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Bernard", "tm_name": "Bernard", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Leander Dendoncker", "tm_name": "Leander Dendoncker", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dan Burn", "tm_name": "Dan Burn", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Karlan Grant", "tm_name": "Karlan Grant", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Carlos Vinicius", "tm_name": "Carlos Vinícius", "team": "Tottenham", "match_score": 97, "match_type": "fuzzy"}
+{"us_name": "Adam Webster", "tm_name": "Adam Webster", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Moussa Djenepo", "tm_name": "Moussa Djenepo", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ben Osborn", "tm_name": "Ben Osborn", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Conor Hourihane", "tm_name": "Conor Hourihane", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Steven Alzate", "tm_name": "Steven Alzate", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Reece James", "tm_name": "Reece James", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kieran Tierney", "tm_name": "Kieran Tierney", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tyrick Mitchell", "tm_name": "Tyrick Mitchell", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tariq Lamptey", "tm_name": "Tariq Lamptey", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nathaniel Phillips", "tm_name": "Nat Phillips", "team": "Liverpool", "match_score": 80, "match_type": "fuzzy"}
+{"us_name": "Sander Berge", "tm_name": "Sander Berge", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Steven Bergwijn", "tm_name": "Steven Bergwijn", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alexis Mac Allister", "tm_name": "Alexis Mac Allister", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nathan Tella", "tm_name": "Nathan Tella", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jimmy Dunne", "tm_name": "Jimmy Dunne", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Luke Thomas", "tm_name": "Luke Thomas", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Pascal Struijk", "tm_name": "Pascal Struijk", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kalvin Phillips", "tm_name": "Kalvin Phillips", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joël Veltman", "tm_name": "Joël Veltman", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Liam Cooper", "tm_name": "Liam Cooper", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Donny van de Beek", "tm_name": "Donny van de Beek", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rúben Dias", "tm_name": "Rúben Dias", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kean Bryan", "tm_name": "Kean Bryan", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Fabio Carvalho", "tm_name": "Fábio Carvalho", "team": "Fulham", "match_score": 96, "match_type": "fuzzy"}
+{"us_name": "Daniel Jebbison", "tm_name": "Daniel Jebbison", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Anthony Elanga", "tm_name": "Anthony Elanga", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Bernd Leno", "tm_name": "Bernd Leno", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Andreas Christensen", "tm_name": "Andreas Christensen", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Sead Kolasinac", "tm_name": "Sead Kolasinac", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matt Ritchie", "tm_name": "Matt Ritchie", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joshua King", "tm_name": "Joshua King", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Divock Origi", "tm_name": "Divock Origi", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mamadou Sakho", "tm_name": "Mamadou Sakho", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "James Milner", "tm_name": "James Milner", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Calum Chambers", "tm_name": "Calum Chambers", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joel Ward", "tm_name": "Joel Ward", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Martin Kelly", "tm_name": "Martin Kelly", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "James Tomkins", "tm_name": "James Tomkins", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mark Noble", "tm_name": "Mark Noble", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Aaron Cresswell", "tm_name": "Aaron Cresswell", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Darren Randolph", "tm_name": "Darren Randolph", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kieran Gibbs", "tm_name": "Kieran Gibbs", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "David de Gea", "tm_name": "David de Gea", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Timothy Fosu-Mensah", "tm_name": "Timothy Fosu-Mensah", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Odion Ighalo", "tm_name": "Odion Ighalo", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Seamus Coleman", "tm_name": "Séamus Coleman", "team": "Everton", "match_score": 96, "match_type": "fuzzy"}
+{"us_name": "Phil Jagielka", "tm_name": "Phil Jagielka", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "James McCarthy", "tm_name": "James McCarthy", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nathaniel Clyne", "tm_name": "Nathaniel Clyne", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Fernandinho", "tm_name": "Fernandinho", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Willy Caballero", "tm_name": "Willy Caballero", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "James McArthur", "tm_name": "James McArthur", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alex McCarthy", "tm_name": "Alex McCarthy", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Hugo Lloris", "tm_name": "Hugo Lloris", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Eric Dier", "tm_name": "Eric Dier", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dele Alli", "tm_name": "Dele Alli", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ben Davies", "tm_name": "Ben Davies", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Josh Onomah", "tm_name": "Josh Onomah", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Branislav Ivanovic", "tm_name": "Branislav Ivanovic", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nemanja Matic", "tm_name": "Nemanja Matić", "team": "Manchester United", "match_score": 92, "match_type": "fuzzy"}
+{"us_name": "Fikayo Tomori", "tm_name": "Fikayo Tomori", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Lukasz Fabianski", "tm_name": "Lukasz Fabianski", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Federico Fernández", "tm_name": "Federico Fernández", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Neil Taylor", "tm_name": "Neil Taylor", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jack Cork", "tm_name": "Jack Cork", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "DeAndre Yedlin", "tm_name": "DeAndre Yedlin", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Patrick van Aanholt", "tm_name": "Patrick van Aanholt", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jordan Pickford", "tm_name": "Jordan Pickford", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kasper Schmeichel", "tm_name": "Kasper Schmeichel", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Wes Morgan", "tm_name": "Wes Morgan", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Christian Fuchs", "tm_name": "Christian Fuchs", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "N&#039;Golo Kanté", "tm_name": "N'Golo Kanté", "team": "Chelsea", "match_score": 85, "match_type": "fuzzy"}
+{"us_name": "Demarai Gray", "tm_name": "Demarai Gray", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Moussa Sissoko", "tm_name": "Moussa Sissoko", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Karl Darlow", "tm_name": "Karl Darlow", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "John Ruddy", "tm_name": "John Ruddy", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Fraser Forster", "tm_name": "Fraser Forster", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ryan Bertrand", "tm_name": "Ryan Bertrand", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Shane Long", "tm_name": "Shane Long", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Cédric Soares", "tm_name": "Cédric Soares", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Charlie Austin", "tm_name": "Charlie Austin", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jack Butland", "tm_name": "Jack Butland", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Phil Bardsley", "tm_name": "Phil Bardsley", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Fabian Delph", "tm_name": "Fabian Delph", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matt Targett", "tm_name": "Matt Targett", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kyle Walker-Peters", "tm_name": "Kyle Walker-Peters", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Erik Pieters", "tm_name": "Erik Pieters", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Xherdan Shaqiri", "tm_name": "Xherdan Shaqiri", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Harrison Reed", "tm_name": "Harrison Reed", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Axel Tuanzebe", "tm_name": "Axel Tuanzebe", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Harry Winks", "tm_name": "Harry Winks", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Sam Johnstone", "tm_name": "Sam Johnstone", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joseph Gomez", "tm_name": "Joe Gomez", "team": "Liverpool", "match_score": 86, "match_type": "fuzzy"}
+{"us_name": "Sam Field", "tm_name": "Sam Field", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tom Davies", "tm_name": "Tom Davies", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jonjoe Kenny", "tm_name": "Jonjoe Kenny", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Felipe Anderson", "tm_name": "Felipe Anderson", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Emerson", "tm_name": "Emerson", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Moise Kean", "tm_name": "Moise Kean", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Allan", "tm_name": "Allan", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Islam Slimani", "tm_name": "Islam Slimani", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ryan Fraser", "tm_name": "Ryan Fraser", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ahmed Elmohamady", "tm_name": "Ahmed El Mohamady", "team": "Aston Villa", "match_score": 97, "match_type": "fuzzy"}
+{"us_name": "Jake Livermore", "tm_name": "Jake Livermore", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Shkodran Mustafi", "tm_name": "Shkodran Mustafi", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Javier Manquillo", "tm_name": "Javier Manquillo", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jack Stephens", "tm_name": "Jack Stephens", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Eric Bailly", "tm_name": "Eric Bailly", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kevin Long", "tm_name": "Kevin Long", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Lys Mousset", "tm_name": "Lys Mousset", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rob Holding", "tm_name": "Rob Holding", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ainsley Maitland-Niles", "tm_name": "Ainsley Maitland-Niles", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Arthur Masuaku", "tm_name": "Arthur Masuaku", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nampalys Mendy", "tm_name": "Nampalys Mendy", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Lucas Digne", "tm_name": "Lucas Digne", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alex Telles", "tm_name": "Alex Telles", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Pablo Hernández", "tm_name": "Pablo Hernández", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Vicente Guaita", "tm_name": "Vicente Guaita", "team": "Crystal Palace", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mateo Kovacic", "tm_name": "Mateo Kovacic", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kiko Casilla", "tm_name": "Kiko Casilla", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alphonse Areola", "tm_name": "Alphonse Areola", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Thomas Partey", "tm_name": "Thomas Partey", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "André Gomes", "tm_name": "André Gomes", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mat Ryan", "tm_name": "Mathew Ryan", "team": "Arsenal", "match_score": 84, "match_type": "fuzzy"}
+{"us_name": "Dani Ceballos", "tm_name": "Dani Ceballos", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Aymeric Laporte", "tm_name": "Aymeric Laporte", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Oleksandr Zinchenko", "tm_name": "Oleksandr Zinchenko", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kamil Grosicki", "tm_name": "Kamil Grosicki", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ricardo Pereira", "tm_name": "Ricardo Pereira", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Maxime Le Marchand", "tm_name": "Maxime Le Marchand", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Fabinho", "tm_name": "Fabinho", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Morgan Sanson", "tm_name": "Morgan Sanson", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ahmed Hegazy", "tm_name": "Ahmed Hegazy", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jean-Philippe Gbamin", "tm_name": "Jean-Philippe Gbamin", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Aboubakar Kamara", "tm_name": "Aboubakar Kamara", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Patrick Cutrone", "tm_name": "Patrick Cutrone", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Bernardo", "tm_name": "Bernardo", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Naby Keita", "tm_name": "Naby Keïta", "team": "Liverpool", "match_score": 95, "match_type": "fuzzy"}
+{"us_name": "Michael Hector", "tm_name": "Michael Hector", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nick Pope", "tm_name": "Nick Pope", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rekeem Harper", "tm_name": "Rekeem Harper", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tosin Adarabioyo", "tm_name": "Tosin Adarabioyo", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Aaron Ramsdale", "tm_name": "Aaron Ramsdale", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kenny Tete", "tm_name": "Kenny Tete", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Charlie Taylor", "tm_name": "Charlie Taylor", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Davy Pröpper", "tm_name": "Davy Pröpper", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ederson", "tm_name": "Ederson", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Isaac Hayden", "tm_name": "Isaac Hayden", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Terence Kongolo", "tm_name": "Terence Kongolo", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Douglas Luiz", "tm_name": "Douglas Luiz", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Cengiz Ünder", "tm_name": "Cengiz Ünder", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "José Izquierdo", "tm_name": "José Izquierdo", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Davinson Sánchez", "tm_name": "Davinson Sánchez", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Robin Koch", "tm_name": "Robin Koch", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Andriy Yarmolenko", "tm_name": "Andriy Yarmolenko", "team": "West Ham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jayson Molumby", "tm_name": "Jayson Molumby", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joe Rodon", "tm_name": "Joe Rodon", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Hamza Choudhury", "tm_name": "Hamza Choudhury", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Cenk Tosun", "tm_name": "Cenk Tosun", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Reiss Nelson", "tm_name": "Reiss Nelson", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Michael Obafemi", "tm_name": "Michael Obafemi", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Martin Dubravka", "tm_name": "Martin Dúbravka", "team": "Newcastle United", "match_score": 97, "match_type": "fuzzy"}
+{"us_name": "Ibrahima Diallo", "tm_name": "Ibrahima Diallo", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Lee Peltier", "tm_name": "Lee Peltier", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Neeskens Kebano", "tm_name": "Neeskens Kebano", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alireza Jahanbakhsh", "tm_name": "Alireza Jahanbakhsh", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "David Button", "tm_name": "David Button", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rui Patrício", "tm_name": "Rui Patrício", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matt Doherty", "tm_name": "Matt Doherty", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rúben Vinagre", "tm_name": "Rúben Vinagre", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rúnar Alex Rúnarsson", "tm_name": "Rúnar Alex Rúnarsson", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Edouard Mendy", "tm_name": "Edouard Mendy", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Mohammed Salisu", "tm_name": "Mohammed Salisu", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Okay Yokuslu", "tm_name": "Okay Yokuşlu", "team": "West Bromwich Albion", "match_score": 92, "match_type": "fuzzy"}
+{"us_name": "Robin Olsen", "tm_name": "Robin Olsen", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Denis Odoi", "tm_name": "Denis Odoi", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Sean Longstaff", "tm_name": "Sean Longstaff", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tim Ream", "tm_name": "Tim Ream", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Sergio Reguilón", "tm_name": "Sergio Reguilón", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Yan Valery", "tm_name": "Yan Valery", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ben White", "tm_name": "Ben White", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kayne Ramsay", "tm_name": "Kayne Ramsay", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ozan Kabak", "tm_name": "Ozan Kabak", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Josh Benson", "tm_name": "Josh Benson", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Will Norris", "tm_name": "Will Norris", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Wesley Fofana", "tm_name": "Wesley Fofana", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ben Godfrey", "tm_name": "Ben Godfrey", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jamal Lewis", "tm_name": "Jamal Lewis", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dean Henderson", "tm_name": "Dean Henderson", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "John Egan", "tm_name": "John Egan", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Chris Basham", "tm_name": "Chris Basham", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jack O&#039;Connell", "tm_name": "Jack O'Connell", "team": "Sheffield United", "match_score": 88, "match_type": "fuzzy"}
+{"us_name": "George Baldock", "tm_name": "George Baldock", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Enda Stevens", "tm_name": "Enda Stevens", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "John Lundstram", "tm_name": "John Lundstram", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "John Fleck", "tm_name": "John Fleck", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Oliver Norwood", "tm_name": "Oliver Norwood", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Zack Steffen", "tm_name": "Zack Steffen", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Caoimhin Kelleher", "tm_name": "Caoimhín Kelleher", "team": "Liverpool", "match_score": 97, "match_type": "fuzzy"}
+{"us_name": "Billy Gilmour", "tm_name": "Billy Gilmour", "team": "Chelsea", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matthew Longstaff", "tm_name": "Matty Longstaff", "team": "Newcastle United", "match_score": 88, "match_type": "fuzzy"}
+{"us_name": "Marvelous Nakamba", "tm_name": "Marvelous Nakamba", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Eric Garcia", "tm_name": "Eric García", "team": "Manchester City", "match_score": 95, "match_type": "fuzzy"}
+{"us_name": "Brandon Williams", "tm_name": "Brandon Williams", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Niels Nkounkou", "tm_name": "Niels Nkounkou", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Amad Diallo Traore", "tm_name": "Amad Diallo", "team": "Manchester United", "match_score": 76, "match_type": "fuzzy"}
+{"us_name": "Anthony Gordon", "tm_name": "Anthony Gordon", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Scott Carson", "tm_name": "Scott Carson", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Owen Otasowie", "tm_name": "Owen Otasowie", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Neco Williams", "tm_name": "Neco Williams", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Japhet Tanganga", "tm_name": "Japhet Tanganga", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "William Smallbone", "tm_name": "Will Smallbone", "team": "Southampton", "match_score": 90, "match_type": "fuzzy"}
+{"us_name": "Oskar Buur", "tm_name": "Oskar Buur", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jack Robinson", "tm_name": "Jack Robinson", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Josh Brownhill", "tm_name": "Josh Brownhill", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Ki-Jana Hoever", "tm_name": "Ki-Jana Hoever", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "João Virgínia", "tm_name": "João Virgínia", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Pablo Marí", "tm_name": "Pablo Marí", "team": "Arsenal", "match_score": 100, "match_type": "exact"}
+{"us_name": "Bailey Peacock-Farrell", "tm_name": "Bailey Peacock-Farrell", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jake Vokins", "tm_name": "Jake Vokins", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Alexandre Jankewitz", "tm_name": "Alexandre Jankewitz", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Joel Mumbongo", "tm_name": "Joel Mumbongo", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Marek Rodák", "tm_name": "Marek Rodák", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Illan Meslier", "tm_name": "Illan Meslier", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Luke Ayling", "tm_name": "Luke Ayling", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jamie Shackleton", "tm_name": "Jamie Shackleton", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dara O&#039;Shea", "tm_name": "Dara O'Shea", "team": "West Bromwich Albion", "match_score": 85, "match_type": "fuzzy"}
+{"us_name": "Romaine Sawyers", "tm_name": "Romaine Sawyers", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Kyle Edwards", "tm_name": "Kyle Edwards", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Vitinha", "tm_name": "Vitinha", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Konstantinos Tsimikas", "tm_name": "Konstantinos Tsimikas", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Matthew Cash", "tm_name": "Matty Cash", "team": "Aston Villa", "match_score": 82, "match_type": "fuzzy"}
+{"us_name": "Liam Delap", "tm_name": "Liam Delap", "team": "Manchester City", "match_score": 100, "match_type": "exact"}
+{"us_name": "Conor Townsend", "tm_name": "Conor Townsend", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Max Lowe", "tm_name": "Max Lowe", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Leif Davis", "tm_name": "Leif Davis", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Antonee Robinson", "tm_name": "Antonee Robinson", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jacob Ramsey", "tm_name": "Jacob Ramsey", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Vladimir Coufal", "tm_name": "Vladimír Coufal", "team": "West Ham", "match_score": 97, "match_type": "fuzzy"}
+{"us_name": "Filip Krovinovic", "tm_name": "Filip Krovinovic", "team": "West Bromwich Albion", "match_score": 100, "match_type": "exact"}
+{"us_name": "Lewis Richardson", "tm_name": "Lewis Richardson", "team": "Burnley", "match_score": 100, "match_type": "exact"}
+{"us_name": "Rhys Williams", "tm_name": "Rhys Williams", "team": "Liverpool", "match_score": 100, "match_type": "exact"}
+{"us_name": "Robert Sánchez", "tm_name": "Robert Sánchez", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Andi Zeqiri", "tm_name": "Andi Zeqiri", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Elliot Anderson", "tm_name": "Elliot Anderson", "team": "Newcastle United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Theo Corbeanu", "tm_name": "Theo Corbeanu", "team": "Wolverhampton Wanderers", "match_score": 100, "match_type": "exact"}
+{"us_name": "Niall Huggins", "tm_name": "Niall Huggins", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Antwoine Hackford", "tm_name": "Antwoine Hackford", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Percy Tau", "tm_name": "Percy Tau", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Reda Khadra", "tm_name": "Reda Khadra", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Caleb Watts", "tm_name": "Caleb Watts", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Allan Tchaptchet", "tm_name": "Allan Tchaptchet", "team": "Southampton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jakub Moder", "tm_name": "Jakub Moder", "team": "Brighton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Iliman Ndiaye", "tm_name": "Iliman Ndiaye", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Dane Scarlett", "tm_name": "Dane Scarlett", "team": "Tottenham", "match_score": 100, "match_type": "exact"}
+{"us_name": "Carney Chukwuemeka", "tm_name": "Carney Chukwuemeka", "team": "Aston Villa", "match_score": 100, "match_type": "exact"}
+{"us_name": "Shola Shoretire", "tm_name": "Shola Shoretire", "team": "Manchester United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Sidnei Tavares", "tm_name": "Sidnei Tavares", "team": "Leicester", "match_score": 100, "match_type": "exact"}
+{"us_name": "Nathan Broadhead", "tm_name": "Nathan Broadhead", "team": "Everton", "match_score": 100, "match_type": "exact"}
+{"us_name": "Jaden Philogene-Bidace", "tm_name": "Jaden Philogene", "team": "Aston Villa", "match_score": 81, "match_type": "fuzzy"}
+{"us_name": "Gaetano Berardi", "tm_name": "Gaetano Berardi", "team": "Leeds", "match_score": 100, "match_type": "exact"}
+{"us_name": "Femi Seriki", "tm_name": "Femi Seriki", "team": "Sheffield United", "match_score": 100, "match_type": "exact"}
+{"us_name": "Tyrese Francois", "tm_name": "Tyrese Francois", "team": "Fulham", "match_score": 100, "match_type": "exact"}
+{"us_name": "William Fish", "tm_name": "Will Fish", "team": "Manchester United", "match_score": 86, "match_type": "fuzzy"}
