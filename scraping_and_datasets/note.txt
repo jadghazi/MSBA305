@@ -1,8 +1,0 @@
-unified_players.json — Your main player table. Every Understat player with their TM profile (age, height, nationality) and FIFA ratings (overall, pace, shooting, value) merged together via fuzzy matching. This is the primary dataset for analysis.
-unified_matches.json — Your main match table. All 380 PL games combining TM data (goals, cards, referee, stadium) with Understat data (xG, forecasts) joined on date and teams.
-tm_players_clean.json — All Transfermarkt players cleaned (including bench/reserve players who don't appear in Understat). Fuller squad profiles.
-us_players_clean.json — All Understat players cleaned, with xG, xA, per-90 stats, and derived metrics.
-fifa_players_clean.json — FIFA 21 player ratings cleaned, with overall, potential, attributes like pace/shooting/passing, and market values.
-clubs.json — The 20 PL clubs with squad size, average age, coach, stadium capacity, and net transfer spend.
-player_crosswalk_us_tm.json — The lookup table showing how each Understat player was matched to their Transfermarkt name (with match scores). Useful for auditing fuzzy match quality.
-player_crosswalk_us_fifa.json — Same thing but for the Understat-to-FIFA name matching.
