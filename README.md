@@ -198,6 +198,9 @@ Fuzzy matching via `thefuzz` library (Levenshtein distance, threshold 75, constr
 
 ---
 
+For Streamlit : https://pl-analytics-2021.streamlit.app/
+Or run locally (4.6 folder) by pip installing requirements and run " streamlit run app.py"
+
 ## AI Usage
 
 
