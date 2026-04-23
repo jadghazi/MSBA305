@@ -128,7 +128,7 @@ Open `cleaning_transformation_pipeline.ipynb` in Jupyter and run all cells. This
 jupyter notebook cleaning_transformation_pipeline.ipynb
 ```
 
-### 4. Create the PostgreSQL database
+### 4. Create the PostgreSQL database (keep the same folder structure as the one in git)
 
 ```bash
 psql -U postgres -c "CREATE DATABASE pl_analytics;"
@@ -142,6 +142,10 @@ Update the database connection string in `load_into_postgres.py` if needed, then
 ```bash
 python postgre_integration/load_into_postgres.py
 ```
+
+### 6. The queries
+
+The queries and their outputs present in the queries_and_output.txt file copy-paste ready to SQLshell.
 
 
 ## Cross-Source Match Rates
