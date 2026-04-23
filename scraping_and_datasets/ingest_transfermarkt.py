@@ -46,9 +46,7 @@ import sys
 import subprocess
 
 
-# ---------------------------------------------------------------------------
 # Configuration
-# ---------------------------------------------------------------------------
 SCRAPER_DIR = "transfermarkt-scraper"       # path to cloned repo
 SEASON = "2020"                             # Transfermarkt uses start year
 OUTPUT_DIR = "data/raw/transfermarkt"

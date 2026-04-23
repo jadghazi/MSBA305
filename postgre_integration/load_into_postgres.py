@@ -26,9 +26,7 @@ import sys
 import psycopg2
 from psycopg2.extras import execute_values
 
-# ---------------------------------------------------------------------------
 # CONFIGURATION — Update these to match your setup
-# ---------------------------------------------------------------------------
 DB_CONFIG = {
     "dbname":   "pl_analytics",
     "user":     "postgres",
@@ -40,9 +38,7 @@ DB_CONFIG = {
 # Path to cleaned data output from cleaning_transformation.py
 CLEAN_DIR = "data/cleaned"
 
-# ---------------------------------------------------------------------------
 # HELPERS
-# ---------------------------------------------------------------------------
 
 def load_jsonl(filepath):
     """Load a JSONL file into a list of dicts."""
@@ -64,9 +60,7 @@ def get_connection():
         sys.exit(1)
 
 
-# ---------------------------------------------------------------------------
 # STEP 1: Load teams from clubs.json
-# ---------------------------------------------------------------------------
 
 def load_teams(conn, clubs):
     """Insert teams and return a mapping of team_name -> team_id."""
@@ -87,9 +81,7 @@ def load_teams(conn, clubs):
     return team_map
 
 
-# ---------------------------------------------------------------------------
 # STEP 2: Load players from unified_players.json
-# ---------------------------------------------------------------------------
 
 def load_players(conn, unified_players, team_map):
     """
@@ -124,9 +116,7 @@ def load_players(conn, unified_players, team_map):
     return player_map
 
 
-# ---------------------------------------------------------------------------
 # STEP 3: Load matches from unified_matches.json
-# ---------------------------------------------------------------------------
 
 def load_matches(conn, unified_matches, team_map):
     """
@@ -165,9 +155,7 @@ def load_matches(conn, unified_matches, team_map):
     return match_map
 
 
-# ---------------------------------------------------------------------------
 # STEP 4: Load Transfermarkt player profiles
-# ---------------------------------------------------------------------------
 
 
 def safe_int(value):
@@ -269,9 +257,7 @@ def load_tm_player_profiles(conn, player_map):
     print(f"[OK] tm_player_profiles: {count} rows inserted")
 
 
-# ---------------------------------------------------------------------------
 # STEP 5: Load Understat player stats
-# ---------------------------------------------------------------------------
 
 def load_us_player_stats(conn, player_map):
     """Insert Understat xG stats for each player."""
@@ -302,9 +288,7 @@ def load_us_player_stats(conn, player_map):
     print(f"[OK] us_player_stats: {count} rows inserted")
 
 
-# ---------------------------------------------------------------------------
 # STEP 6: Load FIFA player attributes
-# ---------------------------------------------------------------------------
 
 def load_fifa_player_attributes(conn, player_map):
     """Insert FIFA 21 ratings and attributes for matched players."""
@@ -353,9 +337,7 @@ def load_fifa_player_attributes(conn, player_map):
     print(f"[OK] fifa_player_attributes: {count} rows inserted")
 
 
-# ---------------------------------------------------------------------------
 # STEP 7: Load TM match details
-# ---------------------------------------------------------------------------
 
 def load_tm_match_details(conn, match_map):
     """Insert Transfermarkt match detail data (stadium, referee, managers)."""
@@ -396,9 +378,7 @@ def load_tm_match_details(conn, match_map):
     print(f"[OK] tm_match_details: {count} rows inserted")
 
 
-# ---------------------------------------------------------------------------
 # STEP 8: Load Understat match stats
-# ---------------------------------------------------------------------------
 
 def load_us_match_stats(conn, match_map):
     """Insert Understat xG data per match."""
@@ -430,9 +410,7 @@ def load_us_match_stats(conn, match_map):
     print(f"[OK] us_match_stats: {count} rows inserted")
 
 
-# ---------------------------------------------------------------------------
 # STEP 9: Load TM match events (goals, cards, subs)
-# ---------------------------------------------------------------------------
 
 def load_tm_match_events(conn, match_map, team_map):
     """Insert match events extracted from TM games."""
@@ -500,9 +478,7 @@ def load_tm_match_events(conn, match_map, team_map):
     print(f"[OK] tm_match_events: {count} rows inserted")
 
 
-# ---------------------------------------------------------------------------
 # STEP 10: Load source mapping tables
-# ---------------------------------------------------------------------------
 
 def load_player_source_map(conn, player_map):
     """Insert player crosswalk linking unified player_id to source IDs."""
@@ -625,9 +601,7 @@ def load_team_source_map(conn, team_map):
     print(f"[OK] team_source_map: {count} rows inserted")
 
 
-# ---------------------------------------------------------------------------
 # STEP 11: Verify
-# ---------------------------------------------------------------------------
 
 def verify(conn):
     """Run count queries on all tables to verify the load."""
@@ -649,9 +623,7 @@ def verify(conn):
         print(f"  {table:30s}: {count:>6} rows")
 
 
-# ---------------------------------------------------------------------------
 # MAIN
-# ---------------------------------------------------------------------------
 
 def main():
     print("=" * 60)

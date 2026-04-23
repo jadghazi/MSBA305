@@ -54,9 +54,7 @@ import sys
 import pandas as pd
 
 
-# ---------------------------------------------------------------------------
 # Configuration
-# ---------------------------------------------------------------------------
 INPUT_DIR = "data/raw/kaggle"
 INPUT_FILE = "players_21.csv"
 OUTPUT_DIR = "data/raw/kaggle"

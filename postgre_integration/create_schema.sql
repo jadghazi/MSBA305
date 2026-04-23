@@ -1,9 +1,6 @@
--- =============================================================================
 -- Premier League 2020/21 Pipeline — PostgreSQL Schema
--- =============================================================================
 -- Run this script to create all tables.
 -- Usage: psql -U postgres -d pl_analytics -f create_schema.sql
--- =============================================================================
 
 -- Drop tables if they exist (in reverse dependency order)
 DROP TABLE IF EXISTS tm_match_events CASCADE;
@@ -19,9 +16,7 @@ DROP TABLE IF EXISTS matches CASCADE;
 DROP TABLE IF EXISTS players CASCADE;
 DROP TABLE IF EXISTS teams CASCADE;
 
--- =============================================================================
 -- CORE UNIFIED TABLES
--- =============================================================================
 
 CREATE TABLE teams (
     team_id         SERIAL PRIMARY KEY,
@@ -49,9 +44,7 @@ CREATE TABLE matches (
     season          VARCHAR(20) DEFAULT '2020/2021'
 );
 
--- =============================================================================
 -- TRANSFERMARKT SOURCE TABLES
--- =============================================================================
 
 CREATE TABLE tm_player_profiles (
     tm_player_profile_id SERIAL PRIMARY KEY,
@@ -93,9 +86,7 @@ CREATE TABLE tm_match_events (
     score_after_event VARCHAR(10)
 );
 
--- =============================================================================
 -- UNDERSTAT SOURCE TABLES
--- =============================================================================
 
 CREATE TABLE us_player_stats (
     us_player_stat_id SERIAL PRIMARY KEY,
@@ -126,9 +117,7 @@ CREATE TABLE us_match_stats (
     forecast_loss   DECIMAL(6,4)
 );
 
--- =============================================================================
 -- FIFA SOURCE TABLE
--- =============================================================================
 
 CREATE TABLE fifa_player_attributes (
     fifa_player_attr_id SERIAL PRIMARY KEY,
@@ -152,9 +141,7 @@ CREATE TABLE fifa_player_attributes (
     power_shot_power DECIMAL(5,1)
 );
 
--- =============================================================================
 -- SOURCE MAPPING TABLES (crosswalk / lineage)
--- =============================================================================
 
 CREATE TABLE player_source_map (
     player_source_map_id SERIAL PRIMARY KEY,
@@ -184,9 +171,7 @@ CREATE TABLE team_source_map (
     match_method    VARCHAR(50)
 );
 
--- =============================================================================
 -- INDEXES for query performance
--- =============================================================================
 
 CREATE INDEX idx_players_team ON players(team_id);
 CREATE INDEX idx_matches_home ON matches(home_team_id);
@@ -200,7 +185,5 @@ CREATE INDEX idx_us_match_stats_match ON us_match_stats(match_id);
 CREATE INDEX idx_tm_events_match ON tm_match_events(match_id);
 CREATE INDEX idx_player_source_map_player ON player_source_map(player_id);
 
--- =============================================================================
 -- Done
--- =============================================================================
 SELECT 'Schema created successfully.' AS status;

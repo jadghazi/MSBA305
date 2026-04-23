@@ -42,9 +42,7 @@ import aiohttp
 from understat import Understat
 
 
-# ---------------------------------------------------------------------------
 # Configuration
-# ---------------------------------------------------------------------------
 SEASON = 2020                               # Understat uses start year (2020 = 2020/21)
 LEAGUE = "EPL"
 OUTPUT_DIR = "data/raw/understat"
@@ -89,9 +87,7 @@ async def scrape_all():
     async with aiohttp.ClientSession() as session:
         understat = Understat(session)
 
-        # -----------------------------------------------------------------
         # 1. LEAGUE-LEVEL PLAYER STATS
-        # -----------------------------------------------------------------
         # Returns aggregated season stats for every player who appeared
         # in at least one EPL match during 2020/21
         print("[INFO] Scraping league player stats...")
@@ -110,9 +106,7 @@ async def scrape_all():
             "Players"
         )
 
-        # -----------------------------------------------------------------
         # 2. TEAM-LEVEL PLAYER STATS
-        # -----------------------------------------------------------------
         # Same player stats but fetched per team — useful for team-level
         # aggregations and catches players the league endpoint may miss
         print("[INFO] Scraping team player stats...")
@@ -137,9 +131,7 @@ async def scrape_all():
             "Teams"
         )
 
-        # -----------------------------------------------------------------
         # 3. MATCH RESULTS WITH xG
-        # -----------------------------------------------------------------
         # All 380 PL matches with home/away xG and win/draw/loss probabilities
         print("[INFO] Scraping match results...")
         matches = await understat.get_league_results(LEAGUE, SEASON)

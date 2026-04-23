@@ -12,9 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# =========================
 # Embedded data from query outputs
-# =========================
 
 Q1_CSV = """pos,team_name,games,points,gf,ga,gd,total_xg,xga,xg_diff,goals_vs_xg
 1,Manchester City,38,86,83,32,51,77.71,30.62,47.09,5
@@ -173,9 +171,7 @@ def load_data():
 
 q1, q2_over, q2_under, q2_combined, q3a, q3b, q4, q5 = load_data()
 
-# =========================
 # Styling
-# =========================
 
 st.markdown(
     """
@@ -197,9 +193,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# =========================
 # Sidebar
-# =========================
 
 st.sidebar.title("Dashboard sections")
 page = st.sidebar.radio(
@@ -227,9 +221,7 @@ q2_f = q2_combined[q2_combined["team_name"].isin(selected_teams)].copy()
 q4_f = q4[q4["team_name"].isin(selected_teams)].copy()
 q3a_f = q3a[q3a["team_name"].isin(selected_teams)].copy()
 
-# =========================
 # Helpers
-# =========================
 
 def format_fig(fig, height=480):
     fig.update_layout(
@@ -250,9 +242,7 @@ most_clinical = q2_over.loc[q2_over["goals_minus_xg"].idxmax()]
 most_wasteful = q2_under.loc[q2_under["goals_minus_xg"].idxmin()]
 best_value_team = q5.loc[q5["points_per_m"].idxmax()]
 
-# =========================
 # Pages
-# =========================
 
 if page == "Executive summary":
     st.title("Premier League xG dashboard")

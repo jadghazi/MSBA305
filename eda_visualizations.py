@@ -1,9 +1,3 @@
-"""
-EDA Visualizations — Premier League 2020/21 Unified Player Dataset
-Run: python eda_visualizations.py
-Outputs: 7 PNG files in the same directory
-"""
-
 import json
 import numpy as np
 import matplotlib
@@ -49,9 +43,7 @@ plt.rcParams.update({
 
 OUT = "/mnt/user-data/outputs"
 
-# ══════════════════════════════════════════════════════════════
 # 1. PLAYER DISTRIBUTION BY POSITION
-# ══════════════════════════════════════════════════════════════
 pos_map = {"F": "Forward", "M": "Midfielder", "D": "Defender", "GK": "Goalkeeper", "S": "Sub/Other"}
 positions = [pos_map.get(p.get("position_us", ""), p.get("position_us", "Unknown")) for p in data]
 pos_counts = Counter(positions)
@@ -73,9 +65,8 @@ plt.savefig(f"{OUT}/eda_1_position_distribution.png", dpi=180, bbox_inches="tigh
 plt.close()
 print("✓ 1/7  Position distribution")
 
-# ══════════════════════════════════════════════════════════════
+
 # 2. xG DISTRIBUTION (HISTOGRAM)
-# ══════════════════════════════════════════════════════════════
 xg_vals = [p["xG"] for p in data if p.get("xG") is not None]
 
 fig, ax = plt.subplots(figsize=(8, 5))
@@ -92,9 +83,7 @@ plt.savefig(f"{OUT}/eda_2_xg_distribution.png", dpi=180, bbox_inches="tight")
 plt.close()
 print("✓ 2/7  xG distribution")
 
-# ══════════════════════════════════════════════════════════════
 # 3. GOALS VS xG SCATTER
-# ══════════════════════════════════════════════════════════════
 goals = [p["goals"] for p in data if p.get("goals") is not None and p.get("xG") is not None and p["goals"] > 0]
 xg_scatter = [p["xG"] for p in data if p.get("goals") is not None and p.get("xG") is not None and p["goals"] > 0]
 names_scatter = [p["player_name"] for p in data if p.get("goals") is not None and p.get("xG") is not None and p["goals"] > 0]
@@ -130,9 +119,7 @@ plt.savefig(f"{OUT}/eda_3_goals_vs_xg.png", dpi=180, bbox_inches="tight")
 plt.close()
 print("✓ 3/7  Goals vs xG scatter")
 
-# ══════════════════════════════════════════════════════════════
 # 4. FIFA OVERALL RATING DISTRIBUTION
-# ══════════════════════════════════════════════════════════════
 ratings = [p["overall"] for p in data if p.get("overall") is not None]
 
 fig, ax = plt.subplots(figsize=(8, 5))
@@ -149,9 +136,7 @@ plt.savefig(f"{OUT}/eda_4_fifa_rating_distribution.png", dpi=180, bbox_inches="t
 plt.close()
 print("✓ 4/7  FIFA rating distribution")
 
-# ══════════════════════════════════════════════════════════════
 # 5. CORRELATION HEATMAP
-# ══════════════════════════════════════════════════════════════
 corr_fields = ["xG", "xA", "goals", "assists", "overall", "value_eur", "shots", "key_passes", "minutes"]
 corr_labels = ["xG", "xA", "Goals", "Assists", "FIFA OVR", "Value (€)", "Shots", "Key Passes", "Minutes"]
 
@@ -192,9 +177,7 @@ plt.savefig(f"{OUT}/eda_5_correlation_heatmap.png", dpi=180, bbox_inches="tight"
 plt.close()
 print("✓ 5/7  Correlation heatmap")
 
-# ══════════════════════════════════════════════════════════════
 # 6. PLAYERS PER TEAM
-# ══════════════════════════════════════════════════════════════
 teams = Counter(p["team"] for p in data)
 t_labels, t_counts = zip(*sorted(teams.items(), key=lambda x: -x[1]))
 
@@ -216,9 +199,8 @@ plt.savefig(f"{OUT}/eda_6_players_per_team.png", dpi=180, bbox_inches="tight")
 plt.close()
 print("✓ 6/7  Players per team")
 
-# ══════════════════════════════════════════════════════════════
+
 # 7. AGE DISTRIBUTION
-# ══════════════════════════════════════════════════════════════
 ages = [int(p["age"]) for p in data if p.get("age") not in (None, "", " ") and str(p["age"]).isdigit()]
 
 fig, ax = plt.subplots(figsize=(8, 5))
