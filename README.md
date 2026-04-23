@@ -143,48 +143,6 @@ Update the database connection string in `load_into_postgres.py` if needed, then
 python postgre_integration/load_into_postgres.py
 ```
 
-### 6. Verify the load
-
-```bash
-psql -U postgres -d pl_analytics -f postgre_integration/health_check.sql
-```
-
-All 8 checks should pass (row counts, team verification, FK integrity, null checks).
-
-### 7. Run analytical queries
-
-```bash
-psql -U postgres -d pl_analytics -f postgre_integration/analytical_queries.sql
-```
-
-### 8. Launch the dashboard
-
-```bash
-streamlit run dashboard.py
-```
-
-Opens at `http://localhost:8501` with 5 interactive tabs.
-
-### 9. Generate EDA charts (optional)
-
-```bash
-python eda_visualizations.py
-```
-
-Outputs 7 PNG files to the working directory.
-
----
-
-## Key Findings
-
-- **Manchester City** won the league deservedly — best actual and expected goal difference
-- **Brighton** was the most unlucky team: xG difference ranked 6th but they finished 16th (-14 goals vs xG)
-- **Son Heung-Min** was the season's most clinical finisher (+5.98 goals above xG)
-- **Timo Werner** was the most wasteful (-7.43 below xG on 80 shots, 7.5% conversion)
-- **Leeds** achieved the best efficiency: 0.64 points per €M invested (7x Man City's ratio)
-- **FIFA ratings** correlate with real xG output, but mid-range tiers offer 61% of elite output at 9% of the cost
-
----
 
 ## Cross-Source Match Rates
 
@@ -200,9 +158,6 @@ Fuzzy matching via `thefuzz` library (Levenshtein distance, threshold 75, constr
 
 For Streamlit : https://pl-analytics-2021.streamlit.app/
 Or run locally (4.6 folder) by pip installing requirements and run " streamlit run app.py"
-
-## AI Usage
-
 
 ## License
 
