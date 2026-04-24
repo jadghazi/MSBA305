@@ -163,6 +163,10 @@ Fuzzy matching via `thefuzz` library (Levenshtein distance, threshold 75, constr
 For Streamlit : https://pl-analytics-2021.streamlit.app/
 Or run locally (4.6 folder) by pip installing requirements and run " streamlit run app.py"
 
+### The Bonus Similary Search
+
+This an unsupervised similarity search we did, because we felt it's compatible with our project to help scouts locate similar players that they like. It uses cosine similarity on normalized features to locate the top-5 most similar player to the target using his statistics and market value. 
+
 ## License
 
 Academic project — not for commercial use. Data sources retain their original licenses:
